@@ -11,10 +11,10 @@ GCN Ghost Chase - Type A.
 ### About GCN Ghost Chase - Type A
 
 GCN Ghost Chase is an arcade style game developed by Stuart Antony
-Brereton & the Great Collective Nobody.
+Brereton and the Great Collective Nobody.
 
 GCN Ghost Chase was forked from "Ghost Chase" by Neal Cavalier-Smith
-& Graham White, published in 1983 in the book "49 Explosive Games for
+and Graham White, published in 1983 in the book "49 Explosive Games for
 the ZX Spectrum" by Interface Publications which was authored by
 Tim Hartnell - ISBN 0 907563 53 8.
 
@@ -83,13 +83,13 @@ The implementations that have currently been released are as follows:
 ### Legal / Licencing Information
 
 GCN Ghost Chase was forked from "Ghost Chase" by Neal
-Cavalier-Smith & Graham White, published in 1983 in the book
+Cavalier-Smith and Graham White, published in 1983 in the book
 "49 Explosive Games for the ZX Spectrum" by Interface Publications
 which was authored by Tim Hartnell - ISBN 0 907563 53 8.
 
 Copyright remains with the current copyright owners.
 
-GCN Ghost Chase & it's developers are not affiliated or endorsed
+GCN Ghost Chase and it's developers are not affiliated or endorsed
 by any former or current copyright owners of Ghost Chase.
 
 This program is provided "AS IS" WITHOUT ANY WARRANTY; without
