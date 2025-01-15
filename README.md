@@ -40,8 +40,7 @@ The implementations that have currently been released are as follows:
    
     - Downloads
 
-        [Version 1 - The Program]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
-        [Version 1 - The Source Code]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
+        [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
 - Imp00002 - [ Target platform(s): Nintendo Game Boy Color compatible hardware and software ]
 
@@ -63,7 +62,7 @@ The implementations that have currently been released are as follows:
 
     - Downloads
 
-        [Version 1 - The Source Code]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
+        [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
 
 ### Screenshots
@@ -79,3 +78,20 @@ The implementations that have currently been released are as follows:
 - Imp00003
 
     [version 1 of implementation Imp00003](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
+
+
+### Legal / Licencing Information
+
+GCN Ghost Chase was forked from "Ghost Chase" by Neal
+Cavalier-Smith & Graham White, published in 1983 in the book
+"49 Explosive Games for the ZX Spectrum" by Interface Publications
+which was authored by Tim Hartnell - ISBN 0 907563 53 8.
+
+Copyright remains with the current copyright owners.
+
+GCN Ghost Chase & it's developers are not affiliated or endorsed
+by any former or current copyright owners of Ghost Chase.
+
+This program is provided "AS IS" WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
