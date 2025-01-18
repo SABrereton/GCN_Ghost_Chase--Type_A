@@ -23,7 +23,7 @@ the same flat two dimensional graphics with top-down viewpoint during
 gameplay as the original "Ghost Chase" program.
 
 
-### Implementations and Downloads
+### Implementations
 
 Implementations are forks of GCN Ghost Chase - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
@@ -38,9 +38,14 @@ The implementations that have currently been released are as follows:
     GCN Ghost Chase - Type A that will run on Sinclair ZX Spectrum
     compatible hardware and software.
    
-    - Downloads
+    - Download & Changelog
 
+        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00001-Changelog.txt)
         [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
+
+    - Images
+
+       [Version 1 - Running on the Sinclair ZX Spectrum emulator InkSpector v2.0.0.51](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
 
 - Imp00002 - [ Target platform(s): Nintendo Game Boy Color compatible hardware and software ]
 
@@ -49,9 +54,14 @@ The implementations that have currently been released are as follows:
     that will run on Nintendo Game Boy Color compatible hardware
     and software.
 
-    - Downloads
+    - Download & Changelog
 
+        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00002-Changelog.txt)
         [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
+
+    - Images
+
+        [Version 1 - Running on the Game Boy Color emulator which is built-in to GB Studio 4.X](/Images/imp00002-v1--capture01.png "version 1 of implementation Imp00002")
 
 - Imp00003 - [ Target platform(s): Nintendo Game Boy compatible hardware and software ]
 
@@ -60,24 +70,14 @@ The implementations that have currently been released are as follows:
     that will run on Nintendo Game Boy compatible hardware and
     software.
 
-    - Downloads
+    - Download & Changelog
 
+        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00003-Changelog.txt)
         [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
+    - Images
 
-### Screenshots
-
-- Imp00001
-
-    [version 1 of implementation Imp00001](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
-
-- Imp00002
-
-    [version 1 of implementation Imp00002](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
-
-- Imp00003
-
-    [version 1 of implementation Imp00003](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
+        [Version 1 - Running on the Game Boy Color emulator which is built-in to GB Studio 4.X](/Images/imp00003-v1--capture01.png "version 1 of implementation Imp00003")
 
 
 ### Legal / Licencing Information
