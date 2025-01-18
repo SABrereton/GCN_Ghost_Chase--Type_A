@@ -1,0 +1,101 @@
+
+                       GCN Ghost Chase - Type A
+                       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                        Implemention: Imp00001           
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                  
+                              Changelog
+                              ¯¯¯¯¯¯¯¯¯
+
+
+=== Version 1 - [03-12-2024] ===
+
+Initial version.
+
+Consists of a fork from the type-in program "Ghost Chase" as published
+in the book "49 Explosive Games for the ZX Spectrum" with the
+following changes:
+
+    * Added a section to the beginnning of the program's source code
+      designed to provide some basic information about the program to
+      anyone looking at the source code.
+
+    * Made some changes the title screen:
+    
+          Changed usage of the original title of "Ghost Chase" to
+          "GCN Ghost Chase" on title screen and stopped it from
+          flashing.
+          
+          Added a bit more information about the program including
+          the implementation ID and version number.
+
+          Rearranged the text to be properly left aligned and not
+          have random gaps all over the place.
+          
+          Removed the word "Man" when refering to the player's
+          character as the player may not be a man.
+          
+          Changed the use of "bombs/bomb" to "traps/trap" in the
+          game's scenario to leave more room for interpretation when
+          developing future versions and/or implementations.          
+    
+    * Changed the player's controls from [5], [6], [7] & [8] for
+      directional movement to [W], [A], [S] & [D] for directional
+      movement.
+
+      Also changed the instructions given to the player on the title
+      screen to reflect the change of controls.
+
+    * Changed the "GO SUB" and "RETURN" statements to "GO TO"
+      statements throughout the source code with the intention to
+      avoid potentional overheads created by using nested subroutines.
+  
+    * Made changes to the way the current score is displayed whilst
+      in a game:
+
+          Moved score display to the top of the screen so the playing
+          area could be moved to a more central horizontal position
+          on-screen.
+
+          Made a change to the code so that the score display no
+          longer flashes as it is distracting.
+      
+          Changed the colours used for the score display area.
+      
+          The score is now displayed from the very beginning and no
+          longer waits for a score to be registered first.
+      
+    * Made some changes to the area where the gameplay takes place:
+    
+          Moved the gameplay area to a position on-screen that was
+          more center aligned.
+          
+          Extended the gameplay area width by one tile to make it an
+          even number of 24 (24x19) so that it can be correctly
+          centered on-screen, not slightly left or right of center.
+          
+          Tightened the boundary walls to one pixel around the playing
+          area. No more gaps that give players a false impression that
+          the playing area is bigger than it actually is.
+
+    * Added to the gameplay screen an area informing the player of
+      how many lives they have remaining.
+
+    * Made changes to the game over screen displayed when the player
+      runs out of lives:
+      
+          Changed the text "out of men" to "out of lives".
+          
+          Moved the "out of lives" text to be more horizontally and
+          vertically central on the screen.
+          
+          Stopped the whole screen from flashing as found it annoying
+          and worried it could cause seizures. Instead just the text
+          now flashes.
+
+    * Rearranged the high score screen.
+
+    * Fixed problem of the high score not being recorded.
+
+    * Added some screens with credits on them which are accessible
+      from the title screen.

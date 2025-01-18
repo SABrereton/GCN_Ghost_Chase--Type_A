@@ -1,0 +1,32 @@
+
+                       GCN Ghost Chase - Type A
+                       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                        Implemention: Imp00002           
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                  
+                              Changelog
+                              ¯¯¯¯¯¯¯¯¯
+
+
+=== Version 1 - [20-12-2024] ===
+
+Initial version.
+
+Consists of an attempted replication of version 1 of implementation
+Imp00001 of GCN Ghost Chase using GB Studio 4.X with the resultant
+program intended to run on Nintendo Game Boy Color compatible hardware
+and software.
+
+The only major changes between versions being as a result of the
+smaller screen resolution of the Nintendo Game Boy Color systems.
+
+Although the gameplay area is the same size it no longer fits on a
+single screen so must be scrolled through and takes up most of the
+screen.
+
+The current score and lives remaining information are now conveyed
+through the use of a text overlay at the top of the gameplay screen.
+
+The title and credit screens are now larger than the size of a single
+screen so both use a form of scrolling to convey the information they
+contain.
