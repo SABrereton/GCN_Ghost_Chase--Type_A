@@ -40,7 +40,7 @@ The implementations that have currently been released are as follows:
    
     - Download & Changelog
 
-        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00001-Changelog.txt)
+        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00001-Changelog.txt)\
         [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
     - Images
@@ -56,7 +56,7 @@ The implementations that have currently been released are as follows:
 
     - Download & Changelog
 
-        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00002-Changelog.txt)
+        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00002-Changelog.txt)\
         [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
     - Images
@@ -72,7 +72,7 @@ The implementations that have currently been released are as follows:
 
     - Download & Changelog
 
-        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00003-Changelog.txt)
+        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00003-Changelog.txt)\
         [Version 1]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
     - Images
