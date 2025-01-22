@@ -22,6 +22,9 @@ The "Type A" designation in this case means that this fork shall use
 the same flat two dimensional graphics with top-down viewpoint during
 gameplay as the original "Ghost Chase" program.
 
+The purpose of the "GCN" prefix is to help distinguish it from the
+original program and other possible versions/forks.
+
 
 ### Implementations
 
